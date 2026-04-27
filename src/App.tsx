@@ -128,7 +128,7 @@ function Calculator() {
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground leading-tight">
                   Deterministic <br/>
-                  <span className="text-foreground">ATA Calculator by Teekay_Carter, credits to deBridge L2 Team</span>
+                  <span className="text-foreground">ATA Calculator by Teekay_Carter <> deBridge L2 Team</span>
                 </h1>
                 <p className="text-lg text-muted-foreground leading-relaxed max-w-md">
                   Instantly compute the Associated Token Address for any Solana wallet and token mint. Client-side, secure, and precise.
